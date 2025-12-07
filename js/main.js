@@ -36,7 +36,7 @@ const lyrics = [
   { time: 154, text: "So let me fly with you" },
   { time: 158, text: "Will you be forever with me?" },
   { time: 165, text: "" },
-  { time: 167, text: "Hope you like it Clouie🫶" },
+  { time: 167, text: "Hope you like it clouie🫶" },
   { time: 172, text: "" }
 ];
 
